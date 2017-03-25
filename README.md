@@ -5,7 +5,9 @@ VSCode Java example project working with the Java Debugger and Language Support 
 
 1. Build project with `mvn package`.
 
-2. `.vscode/launch.json` has been configured, debug normally with vscode.
+2. In `.vscode/launch.json` set the `jdkPath`, all else is configured.
+
+3. Debug with vscode.
 
 ### Running
 
