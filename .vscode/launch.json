@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "jdkPath": "/usr/lib/jvm/java-8-openjdk/bin",
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "cwd": "${workspaceRoot}/src/main/java",
+            "startupClass": "dev.eah.java_test.App",
+            "options": [
+                "-classpath",
+                "${workspaceRoot}/target/classes"
+            ],
+            "externalConsole": false
+        }
+    ]
+}
