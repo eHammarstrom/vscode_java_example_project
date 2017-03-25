@@ -1,8 +1,6 @@
 # vscode_java_example_project
 VSCode Java example project working with the Java Debugger and Language Support for Java(TM) by Red Hat extensions
 
-vscode's tasker is not setup, use run.sh to build with Maven (mvn)
-
 ### Debugging
 
 1. Build project with `mvn package`.
